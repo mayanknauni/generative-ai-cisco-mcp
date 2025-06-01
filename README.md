@@ -32,7 +32,7 @@ All code and instructions are included in this repository.
 
 ### GNS3 Lab Topology
 
-![GNS3 Topology](Topology.jpg)
+![GNS3 Topology](Topology.JPG)
 
 - **PC1** (running Claude Desktop) connects to **R2** and **R1** in series, with R1 connected to the cloud.
 - This setup is easily extensible for larger labs or production networks.
