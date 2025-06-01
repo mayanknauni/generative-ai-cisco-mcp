@@ -78,13 +78,13 @@ All code and instructions are included.
 
 - Python 3.10+
 - Claude Desktop (see [Anthropic](https://www.anthropic.com/claude))
-- Cisco routers (real or GNS3/Packet Tracer/CSR1000v)
+- Cisco routers (real or GNS3/EVEng)
 - [GNS3](https://www.gns3.com/) (optional, for emulation)
 - SSH enabled on routers
 
 ### 2. Clone & Set Up
 
-git clone https://github.com/yourusername/claude-mcp-cisco-demo.git
+git clone https://github.com/mayanknauni/generative-ai-cisco-mcp.git
 cd claude-mcp-cisco-demo
 python -m venv venv
 On Windows:
